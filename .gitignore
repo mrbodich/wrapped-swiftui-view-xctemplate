@@ -1,0 +1,17 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+### Linux ###
+*~
+.Trash-*
+.fuse_hidden*
+
+## Other
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
